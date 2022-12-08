@@ -8,7 +8,6 @@
 <a href="https://twitter.com/nicicalu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nicicalu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nicolas-caluori-10239b1a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas-caluori-10239b1a0" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/nicicalu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nicicalu" height="30" width="40" /></a>
-<a href="https://fb.com/nicicalu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nicicalu" height="30" width="40" /></a>
 <a href="https://instagram.com/nicicalu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicicalu" height="30" width="40" /></a>
 </p>
 
