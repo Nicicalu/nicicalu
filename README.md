@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicicalu&label=Profile%20views&color=0e75b6&style=flat" alt="nicicalu" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://nicolas-caluori.ch](nicolas-caluori.ch)
+- 👨‍💻 All of my projects are available at [nicolas-caluori.ch](https://nicolas-caluori.ch)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
